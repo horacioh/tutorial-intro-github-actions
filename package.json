@@ -1,0 +1,13 @@
+{
+  "name": "remove-dupes",
+  "version": "1.0.0",
+  "description": "Remove duplicate items in array",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
