@@ -2,6 +2,8 @@
 
 En este tutorial, explico brevemente que son Github actions y como podemos crear nuestro primer workflow. **mira el video: <YOUTUBE_LINK>**
 
+![Diagrama del workflow](./flow-chart.png)
+
 Sigue los pasos del video para poder configurar el workflow en tus proyectos.
 
 ## Recursos
